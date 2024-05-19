@@ -1,3 +1,0 @@
-# textdomain: home_workshop_machines
-3D Printer ("bedflinger" design)=
-3D Printer (CoreXY design)=

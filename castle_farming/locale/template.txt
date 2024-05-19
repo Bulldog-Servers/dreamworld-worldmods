@@ -1,4 +1,0 @@
-# textdomain: castle_farming
-Hides=
-Bound Straw=
-Training Dummy=

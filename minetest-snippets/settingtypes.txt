@@ -1,2 +1,0 @@
-# Enables snippets buttons which allow all players to run a specified snippet.
-snippets.enable_buttons (Register snippets button nodes) bool true
