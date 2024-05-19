@@ -1,0 +1,67 @@
+# textdomain: minetest_email
+# version 0.1
+# author(s): nyomi
+# reviewer(s):
+You have a new message from @1! Subject: @2@nTo view it, type /mail=
+You can read your messages later by using the /mail command=
+Open the mail interface=
+Use this command to spawn the mailman at your coordinates.=
+No contacts=
+(@1) You have mail! Type /mail to read=
+Mailman=Postás
+Hello! Right click me with your mouse to read and write mail!=Helló! Kattintson a jobb gombbal rám az e-mailek olvasásához és írásához!
+Cancel=
+Send=Küldés
+Note=
+Contacts=
+Mail lists=
+About=
+No drafts=
+Player name=
+That name is already in your contacts.=
+The contact name cannot be empty.=
+Maillist name=
+Desc=
+Players=
+That name is already in your maillists.=
+The maillist name cannot be empty.=
+Save=
+Mark Read=
+Mark Unread=
+Delete=Törlés
+Subject=Cím
+(No description)=
+No maillist=
+New=
+Edit=
+--Original message follows--=
+From=tól/től
+Reply=Válasz
+Date=Dátum
+Inbox=
+Sent messages=
+Close=Bezárás
+(No subject)=
+New Message=Új üzenet
+No mail=
+Add=
+Remove=
+Name=
+Back=
+To=
+
+
+##### not used anymore #####
+
+To (case sensitive)=Címzett (a kis- és nagybetűk megkülönböztetése)
+Body=test
+Delete All=Mindegyik törlése
+Your inbox is empty!=Az inboxod üres!
+Your MailBox is empty!=A postaládád üres!
+Mark as read=Jelöld olvasott ként
+Message=Üzenet
+Inbox cleared!=Inbox törölve
+sent you mail!=A leveled elküldve
+Email sent!=E-mail Elküldve
+You have mail!=Van leveled
+Use this command to see your Inbox. You can read and write mails with that=Ezzel a paranccsal megtekintheti Beérkezett üzeneteit. Ezzel leveleket olvashat és írhat

@@ -1,0 +1,1 @@
+minetest.register_privilege( "mailman_admin", "See checkbox while writing mails")

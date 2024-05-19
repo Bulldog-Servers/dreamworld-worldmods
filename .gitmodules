@@ -1,0 +1,225 @@
+[submodule "dreamworld-worldmods"]
+	path = dreamworld-worldmods
+	url = git@github.com:Bulldog-Servers/dreamworld-worldmods.git
+[submodule "anvil"]
+	path = anvil
+	url = https://github.com/minetest-mods/anvil.git
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://github.com/mt-mods/basic_materials.git
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://github.com/mt-mods/basic_signs.git
+[submodule "bedrock"]
+	path = bedrock
+	url = https://github.com/Calinou/bedrock.git
+[submodule "biome_lib"]
+	path = biome_lib
+	url = https://github.com/mt-mods/biome_lib.git
+[submodule "blox"]
+	path = blox
+	url = https://github.com/mt-mods/blox.git
+[submodule "BobBlocks"]
+	path = BobBlocks
+	url = https://github.com/minetest-mods/BobBlocks.git
+[submodule "carpets"]
+	path = carpets
+	url = https://github.com/minetest-mods/carpets.git
+[submodule "castle_farming"]
+	path = castle_farming
+	url = https://github.com/minetest-mods/castle_farming.git
+[submodule "castle_gates"]
+	path = castle_gates
+	url = https://github.com/minetest-mods/castle_gates.git
+[submodule "castle_lighting"]
+	path = castle_lighting
+	url = https://github.com/minetest-mods/castle_lighting.git
+[submodule "castle_masonry"]
+	path = castle_masonry
+	url = https://github.com/minetest-mods/castle_masonry.git
+[submodule "castle_shields"]
+	path = castle_shields
+	url = https://github.com/minetest-mods/castle_shields.git
+[submodule "castle_storage"]
+	path = castle_storage
+	url = https://github.com/minetest-mods/castle_storage.git
+[submodule "castle_tapestries"]
+	path = castle_tapestries
+	url = https://github.com/minetest-mods/castle_tapestries.git
+[submodule "castle_weapons"]
+	path = castle_weapons
+	url = https://github.com/minetest-mods/castle_weapons.git
+[submodule "caverealms_lite"]
+	path = caverealms_lite
+	url = https://github.com/Ezhh/caverealms_lite.git
+[submodule "coloredwood"]
+	path = coloredwood
+	url = https://github.com/mt-mods/coloredwood.git
+[submodule "cottages"]
+	path = cottages
+	url = https://github.com/Sokomine/cottages.git
+[submodule "currency"]
+	path = currency
+	url = https://github.com/mt-mods/currency.git
+[submodule "darkage"]
+	path = darkage
+	url = https://github.com/adrido/darkage.git
+[submodule "facade"]
+	path = facade
+	url = https://github.com/TumeniNodes/facade.git
+[submodule "function_delayer"]
+	path = function_delayer
+	url = https://github.com/HybridDog/function_delayer.git
+[submodule "gloopblocks"]
+	path = gloopblocks
+	url = https://github.com/mt-mods/gloopblocks.git
+[submodule "glooptest"]
+	path = glooptest
+	url = https://github.com/GloopMaster/glooptest.git
+[submodule "home_workshop_modpack"]
+	path = home_workshop_modpack
+	url = https://github.com/mt-mods/home_workshop_modpack.git
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = https://github.com/mt-mods/homedecor_modpack.git
+[submodule "ilights"]
+	path = ilights
+	url = https://github.com/mt-mods/ilights.git
+[submodule "inspector"]
+	path = inspector
+	url = https://github.com/minetest-mods/inspector.git
+[submodule "invsaw"]
+	path = invsaw
+	url = https://github.com/mt-mods/invsaw.git
+[submodule "irc"]
+	path = irc
+	url = https://github.com/minetest-mods/irc.git
+[submodule "irc_commands"]
+	path = irc_commands
+	url = https://github.com/minetest-mods/irc_commands.git
+[submodule "item_drop"]
+	path = item_drop
+	url = https://github.com/minetest-mods/item_drop.git
+[submodule "laptop"]
+	path = laptop
+	url = https://github.com/Gerold55/laptop.git
+[submodule "led_marquee"]
+	path = led_marquee
+	url = https://github.com/mt-mods/led_marquee.git
+[submodule "letters"]
+	path = letters
+	url = https://github.com/minetest-mods/letters.git
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas.git
+[submodule "locks"]
+	path = locks
+	url = https://github.com/Sokomine/locks.git
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/minetest-mods/maptools.git
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights.git
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "moretrees"]
+	path = moretrees
+	url = https://github.com/mt-mods/moretrees.git
+[submodule "mymillwork"]
+	path = mymillwork
+	url = https://github.com/minetest-mods/mymillwork.git
+[submodule "new_campfire"]
+	path = new_campfire
+	url = https://github.com/mt-mods/new_campfire.git
+[submodule "nixie_tubes"]
+	path = nixie_tubes
+	url = https://github.com/mt-mods/nixie_tubes.git
+[submodule "notices"]
+	path = notices
+	url = https://github.com/LoneWolfHT/notices.git
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://github.com/mt-mods/pipeworks.git
+[submodule "plantlife_modpack"]
+	path = plantlife_modpack
+	url = https://github.com/mt-mods/plantlife_modpack.git
+[submodule "plasticbox"]
+	path = plasticbox
+	url = https://github.com/sbrl/plasticbox.git
+[submodule "quartz"]
+	path = quartz
+	url = https://github.com/minetest-mods/quartz.git
+[submodule "replacer"]
+	path = replacer
+	url = https://github.com/Sokomine/replacer.git
+[submodule "ropes"]
+	path = ropes
+	url = https://github.com/minetest-mods/ropes.git
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://github.com/mt-mods/signs_lib.git
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
+[submodule "steel"]
+	path = steel
+	url = https://github.com/mt-mods/steel.git
+[submodule "street_signs"]
+	path = street_signs
+	url = https://github.com/mt-mods/street_signs.git
+[submodule "streets"]
+	path = streets
+	url = https://github.com/minetest-mods/streets.git
+[submodule "technic"]
+	path = technic
+	url = https://github.com/minetest-mods/technic.git
+[submodule "titanium"]
+	path = titanium
+	url = https://github.com/HybridDog/titanium.git
+[submodule "traffic_light"]
+	path = traffic_light
+	url = https://github.com/DonBatman/traffic_light.git
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/mt-mods/travelnet.git
+[submodule "minetest-ufos"]
+	path = minetest-ufos
+	url = https://github.com/Zeg9/minetest-ufos.git
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "unifiedbricks"]
+	path = unifiedbricks
+	url = https://github.com/minetest-mods/unifiedbricks.git
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://github.com/mt-mods/unifieddyes.git
+[submodule "vehicle_mash"]
+	path = vehicle_mash
+	url = https://github.com/minetest-mods/vehicle_mash.git
+[submodule "minetest_mod_weather"]
+	path = minetest_mod_weather
+	url = https://github.com/theFox6/minetest_mod_weather.git
+[submodule "windmill"]
+	path = windmill
+	url = https://github.com/Sokomine/windmill.git
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2.git
+[submodule "minetest-cloaking"]
+	path = minetest-cloaking
+	url = https://gitlab.com/luk3yx/minetest-cloaking.git
+[submodule "minetest_mails"]
+	path = minetest_mails
+	url = https://gitlab.com/zughy-friends-minetest/minetest_mails.git
+[submodule "minetest-snippets"]
+	path = minetest-snippets
+	url = https://gitlab.com/luk3yx/minetest-snippets.git
